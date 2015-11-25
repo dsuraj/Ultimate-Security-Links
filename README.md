@@ -1,4 +1,4 @@
-# UltimateSecurityLinks
+# Ultimate Security Links
 An awesome collection of security resources.
 
 The goal of this project is to build a community driven collection of security resources. Please feel free to send me pull request and keep adding new stuff. This list is compiled from various sources on the internet.
