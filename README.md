@@ -29,6 +29,9 @@ The goal of this project is to build a community driven collection of security r
 - [Mullvad](https://mullvad.net/en/) - A Swedish provider VPN service, Open source client features internet kill switch and DNS leak protection.
 - [ExpressVPN](https://www.expressvpn.com/) - Fast and secure world-wide VPN service with easy-to-use apps for PC, Mac, iOS, and Android.
 
+## Email ##
+- [Abine Blur](https://www.abine.com/index.html) - It lets you shop online without revealing your actual email address, phone number, or credit card number.
+
 ## Reporting Internet scams and spam ##
 - Australia - [scamwatch](https://www.scamwatch.gov.au/report-a-scam) - Use this link to report a scam to the ACCC.
 - International - [Econsumer](https://www.econsumer.gov) - A partnership of 34 consumer protection agencies around the world.
