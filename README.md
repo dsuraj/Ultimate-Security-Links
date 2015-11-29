@@ -81,6 +81,12 @@ The goal of this project is to build a community driven collection of security r
 - [Policeman](https://addons.mozilla.org/en-US/firefox/addon/policeman/) - It gives you precise control over what web requests are allowed. Create rules based on domain name and type of resource being requested.
 - [SSleuth](https://addons.mozilla.org/en-US/firefox/addon/ssleuth/?src=hp-dl-upandcoming)
 
+## SQL injection ##
+- [Sqlmap](http://sqlmap.org/) - An open source penetration testing tool that automates the process of detecting and exploiting SQL injection flaws and taking over of database.
+- [Mole](http://sourceforge.net/projects/themole/) - Automatic SQL Injection Exploitation Tool.
+- [SQL Injection Prevention Cheat Sheet](https://www.owasp.org/index.php/SQL_Injection_Prevention_Cheat_Sheet) - Clear, simple, actionable guidance for preventing SQL Injection flaws in your applications.
+- [Full SQL Injections Cheatsheet](https://www.exploit-db.com/papers/13650/) - SQL Injection cheatsheet.
+
 ## Reporting Internet scams and spam ##
 - Australia - [scamwatch](https://www.scamwatch.gov.au/report-a-scam) - Use this link to report a scam to the ACCC.
 - International - [Econsumer](https://www.econsumer.gov) - A partnership of 34 consumer protection agencies around the world.
