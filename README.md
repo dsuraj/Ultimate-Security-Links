@@ -8,7 +8,7 @@ The goal of this project is to build a community driven collection of security r
 - [Microsoft Security Essentials](http://windows.microsoft.com/en-us/windows/security-essentials-download) - High-quality protection against viruses and spyware, including Trojans, worms and other malicious software
 - [Norton](https://us.norton.com/) - Surround yourself with protection from viruses, spyware, fraudulent Web sites, and phishing scams
 - [McAfee](http://www.mcafee.com/us/) - Remove spyware or virus threats and prevent malicious applications from invading your PC.
--[Avast](https://www.avast.com/en-us/index) - Stay safe from viruses, malware, spyware, and hackers.
+- [Avast](https://www.avast.com/en-us/index) - Stay safe from viruses, malware, spyware, and hackers.
 - [AVG](http://www.avg.com/au-en/homepage) - Protect your computer from viruses and malicious programs.
 - [Kaspersky](http://www.kaspersky.com/) - Protect your PC against viruses, spyware, Trojans, worms, rootkits, and bots.
 
