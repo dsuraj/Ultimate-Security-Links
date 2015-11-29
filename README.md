@@ -14,6 +14,7 @@ The goal of this project is to build a community driven collection of security r
 - [Privacy Respecting Search Engines](https://github.com/dsuraj/Ultimate-Security-Links#privacy-respecting-search-engines)
 - [Privacy Respecting Browsers](https://github.com/dsuraj/Ultimate-Security-Links#privacy-respecting-browsers)
 - [Firefox Privacy Addons](https://github.com/dsuraj/Ultimate-Security-Links#firefox-privacy-addons)
+- [SQL injection](https://github.com/dsuraj/Ultimate-Security-Links#sql-injection)
 - [Reporting Internet scams and spam](https://github.com/dsuraj/Ultimate-Security-Links#reporting-internet-scams-and-spam)
 
 ## Antivirus / Security Suite ##
