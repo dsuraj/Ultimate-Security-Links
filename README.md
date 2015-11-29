@@ -29,8 +29,44 @@ The goal of this project is to build a community driven collection of security r
 - [Mullvad](https://mullvad.net/en/) - A Swedish provider VPN service, Open source client features internet kill switch and DNS leak protection.
 - [ExpressVPN](https://www.expressvpn.com/) - Fast and secure world-wide VPN service with easy-to-use apps for PC, Mac, iOS, and Android.
 
+## Encrypted Cloud Storage ##
+- [Mega](https://mega.co.nz/) - Developed by Kim (Megaupload developer). It provides end to end encryption and 50 GB free space.
+- [Spideroak](https://spideroak.com/) - Strong privacy features. Unlimited computers allowed in an account. Great customization.
+- [Tresorit](https://tresorit.com/) - End-to-End Encrypted Cloud Storage. Offers a bounty to any hacker who cracks their security.
+
 ## Email ##
 - [Abine Blur](https://www.abine.com/index.html) - It lets you shop online without revealing your actual email address, phone number, or credit card number.
+- [Mailinator](https://mailinator.com/) - A free disposable email address service.
+- [Guerrillamail](https://www.guerrillamail.com/) - A free disposable Temporary E-Mail Address service. Use a temporary email. No registration, lasts 60 mins. Protection from Spam.
+- [Tutanota](https://www.tutanota.com/) - An Open Source Encrypted email service.
+- [ghostmail](https://www.ghostmail.com/) - A secure email, chat and storage platform, with features like self-destructing emails and two factor login.
+
+## Email Clients ##
+- [Thunderbird](https://www.mozilla.org/en-US/thunderbird/) - A free, open source, cross-platform email, news, and chat client developed by the Mozilla.
+- [Whiteout Mail](https://whiteout.io/) - A simple and elegant email client with integrated end-to-end encryption.
+
+## Privacy Respecting Search Engines ##
+- [Disconnect Search](https://search.disconnect.me/) - Search privately using your favorite search engine: Google, Bing Yahoo and DuckDuckGo are available for selection. It masks your IP address, cookies, and other personal info.
+- [DuckDuckGo](https://duckduckgo.com/) - The search engine that doesn’t track you. Some of DuckDuckGo’s code is free software hosted at GitHub, but the core is proprietary. However the company is based in the USA.
+- [Privatesearch](https://www.privatesearch.io/) - An open source metasearch engine, aggregating the results of other search engines while not storing information about its users. No logs, no ads and no tracking.
+- [ixquick](https://ixquick.com/) - World's most private search engine.
+
+## Privacy Respecting Browsers ##
+- [Tor](https://www.torproject.org/) - A free software and an open network for enabling anonymous communication. Tor protects you by bouncing your communications around a distributed network of relays run by volunteers all around the world.
+- [Mozilla Firefox](https://www.firefox.com/) - Fast, reliable, open source and respects your privacy.
+
+## Firefox Privacy Addons ##
+- [HTTPS Everywhere](https://addons.mozilla.org/en-US/firefox/addon/https-everywhere/?src=ss) - A Firefox extension to protect your communications by enabling HTTPS encryption automatically on sites.
+- [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/) - An efficient ad blocker and easy on CPU and memory.
+- [Disconnect](https://addons.mozilla.org/en-US/firefox/addon/disconnect/) - An open source addon, It loads the pages upto 27% faster and stops tracking by 2,000+ third-party sites.
+- [BetterPrivacy](https://addons.mozilla.org/en-US/firefox/addon/betterprivacy/) - Remove or manage a new and uncommon kind of cookies, better known as LSO's set by Google, YouTube, Ebay and others...
+- [Disable WebRTC](https://addons.mozilla.org/En-us/firefox/addon/happy-bonobo-disable-webrtc/) - Disable WebRTC Local IP Address Leaks.
+- [Location Guard](https://addons.mozilla.org/en-US/firefox/addon/location-guard/) - Hide your geographic location from websites. Report a fake location with the addition of random noise in order to protect your privacy.
+- [Random Agent Spoofer](https://addons.mozilla.org/en-US/firefox/addon/random-agent-spoofer/) - Rotates complete browser profiles (from real browsers/devices) at a user defined time interval. It includes many extra privacy enhancing options.
+- [Self-Destructing Cookies](https://addons.mozilla.org/en-US/firefox/addon/self-destructing-cookies/) - Gets rid of a site's cookies and LocalStorage as soon as you close its tabs. Protects against trackers and zombie-cookies.
+- [NoScript Security Suite](https://addons.mozilla.org/en-US/firefox/addon/noscript/) - Allow active content to run only from sites you trust, and protect yourself against XSS and Clickjacking attacks.
+- [Policeman](https://addons.mozilla.org/en-US/firefox/addon/policeman/) - It gives you precise control over what web requests are allowed. Create rules based on domain name and type of resource being requested.
+- [SSleuth](https://addons.mozilla.org/en-US/firefox/addon/ssleuth/?src=hp-dl-upandcoming)
 
 ## Reporting Internet scams and spam ##
 - Australia - [scamwatch](https://www.scamwatch.gov.au/report-a-scam) - Use this link to report a scam to the ACCC.
